@@ -1,26 +1,12 @@
 <!DOCTYPE html>
 <html>
-<!--
 
-First Website
-and comment
-in html
-(comments can span multiple lines)
-
--->
-
-<!-- This is the head -->
-<!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8" />
         <title> Tatiana Cookie Adams: Personal Website </title>
         <link href="css/style.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet"> 
     </head>
-<!-- closing head -->
-
-    <!-- This is the body -->
-    <!-- This is where we place the content of our website -->
     <body>
         <header>
             <h1> Tatiana Cookie Adams </h1>
