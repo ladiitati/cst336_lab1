@@ -28,10 +28,10 @@ in html
         <hr />
         <nav>
             <a href="index.php">Home</a>
-            <a href="about.html" id="about">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="about.php" id="about">About</a>
+            <a href="contact.php">Contact</a>
         </nav>
-        <hr>
+        <hr>s
         <br /><br />
         
         <div id="content">
