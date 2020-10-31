@@ -1,0 +1,40 @@
+body {
+    background-color:#112e51;
+    color:white;
+}
+
+header, main, nav, footer {
+    text-align: center;
+}
+
+nav a { /* links within "nav container" */
+    padding: 15px;
+    padding-top: 5em;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none; /*remove underlines*/
+    color: white;         /*by default, links are blue*/
+}
+
+nav a:hover { /*pseudo class*/
+    border-bottom:2px orange solid;
+    font-size: 2em;
+    transition: .9s; /*transition effect*/
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    font-size: 2em
+}
+
+div {
+    padding-top: 4em;
+}
+
+footer {
+    font-size: .9em;
+    color: grey;
+}
+
+\
