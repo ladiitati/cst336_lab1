@@ -28,8 +28,8 @@ in html
         <hr />
         <nav>
             <a href="index.php" id="home">Home</a>
-            <a href="about.php">About</a>
-            <a href="contact.php">Contact</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
         </nav>
         <hr>
         <br /><br />
